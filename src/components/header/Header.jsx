@@ -122,7 +122,7 @@ const Header = () => {
               },
             }}
           >
-            Devesh Mehra
+            Ronex Ondimu
           </Typography>
           <Box
             justifyContent="flex-end"
