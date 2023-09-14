@@ -9,40 +9,32 @@ function Experience() {
     const experienceData = [
       {
         id: 1,
-        company: "Pepcoding Education (OPC) Private Ltd.",
-        jobtitle: "Fullstack Developer Intern",
-        startYear: "May 2023 ",
-        endYear: " Jul 2023",
+        company: "Africa Blockchain.",
+        jobtitle: "BlockChain Developer Intern",
+        startYear: "Sep 2022 ",
+        endYear: " Dec 2022",
         links:
-          "https://drive.google.com/file/d/1XeQcfKh43Zj4ZZlDuUfghvN38flWZPdK/view?usp=sharing",
+          "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
       },
       {
         id: 2,
-        company: "Pepcoding Education (OPC) Private Ltd.",
-        jobtitle: "Software Development Intern",
-        startYear: "Sep 2022 ",
-        endYear: " Apr 2023",
+        company: "Celo KENYA",
+        jobtitle: "BlockChain Development Intern",
+        startYear: "MAY 2022 ",
+        endYear: " DEC 2022",
         links:
-          "https://drive.google.com/file/d/1WExV0iHcNiVC8No0Y6f5PMmRDJ-lrtTc/view?usp=drive_link",
+          "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
       },
       {
         id: 3,
-        company: "The Sparks Foundation",
-        jobtitle: "Web Development Intern",
-        startYear: "May 2022 ",
-        endYear: " Jun 2022",
+        company: "Kenya Law",
+        jobtitle: "InformationTechnology Support",
+        startYear: "Jan 2023 ",
+        endYear: " Aug 2023",
         links:
-          "https://drive.google.com/file/d/1PDnFM5IYxz-KcsdFtLcNCOWe9kioRnxr/view?usp=sharing",
+          "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
       },
-      {
-        id: 4,
-        company: "NPSEI",
-        jobtitle: "Frontend Developer Intern",
-        startYear: "Aug 2021 ",
-        endYear: " Nov 2021",
-        links:
-          "https://drive.google.com/file/d/1UQsz7aq8ZtF_WrgZNMQlaNK1xA-kjO15/view?usp=drive_link",
-      },
+      
     ];
 
   return (

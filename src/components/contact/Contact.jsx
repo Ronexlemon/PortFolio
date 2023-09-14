@@ -163,7 +163,7 @@ const Contact = () => {
          from_name: name,
          from_email: email,
          message: message,
-         to_email: "mehra.devesh2022@gmail.com",
+         to_email: "ronexondimu@gmail.com",
        };
 
        emailjs
@@ -366,7 +366,7 @@ const Contact = () => {
 
               <a
                 className="personal-details"
-                href="https://goo.gl/maps/qAiPwH8RWxdhqUFU8"
+                href="https://www.google.com/mymaps/viewer?mid=1SuwNJ-HqTWSF2Bmaur7HqmVqZBk&hl=en"
                 target="_blank" // Opens link in a new tab/window
                 rel="noopener noreferrer" // Recommended for security reasons when using target="_blank"
               >
