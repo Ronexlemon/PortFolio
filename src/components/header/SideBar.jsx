@@ -216,7 +216,7 @@ const Sidebar = ({ isOpen, onClose }) => {
 
             <Fade left>
               <NavLink
-                to="https://iam-dev.hashnode.dev/"
+                to="https://ronexlemon.medium.com/"
                 smooth={true}
                 spy="true"
                 duration={2000}
