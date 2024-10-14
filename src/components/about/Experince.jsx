@@ -9,28 +9,46 @@ function Experience() {
     const experienceData = [
       {
         id: 1,
-        company: "Africa Blockchain.",
-        jobtitle: "BlockChain Developer Intern",
-        startYear: "Sep 2022 ",
-        endYear: " Dec 2022",
+        company: "HIFADHI.",
+        jobtitle: "Backend / Smart Contract Development",
+        startYear: "May 2024 ",
+        endYear: "Present",
         links:
           "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
       },
       {
         id: 2,
-        company: "Celo KENYA",
-        jobtitle: "BlockChain Development Intern",
-        startYear: "MAY 2022 ",
-        endYear: " DEC 2022",
+        company: "Exion.",
+        jobtitle: "Backend developer / Blockchain (co-founder)",
+        startYear: "Jan 2024 ",
+        endYear: "Present",
         links:
           "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
       },
       {
         id: 3,
-        company: "Kenya Law",
-        jobtitle: "InformationTechnology Support",
-        startYear: "Jan 2023 ",
-        endYear: " Aug 2023",
+        company: "Atlas KE.",
+        jobtitle: "Backend Developer / Blockchain Dev",
+        startYear: "Dec 2023 ",
+        endYear: " June 2024",
+        links:
+          "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
+      },
+      {
+        id: 4,
+        company: "Celo Africa Dao",
+        jobtitle: "Core Contributor / BlockChain Developer",
+        startYear: "Oct 2023 ",
+        endYear: "Present",
+        links:
+          "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
+      },
+      {
+        id: 5,
+        company: "Lisk ",
+        jobtitle: "Ambassador",
+        startYear: "Jan 2024 ",
+        endYear: "Aug 2024",
         links:
           "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
       },

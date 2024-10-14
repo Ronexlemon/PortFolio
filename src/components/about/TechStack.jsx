@@ -8,6 +8,7 @@ import {
   DiNodejs,
   DiMongodb,
 } from "react-icons/di";
+import { FaGolang } from "react-icons/fa6";
 import { FaCuttlefish } from "react-icons/fa";
 import {
   SiMui,
@@ -16,6 +17,8 @@ import {
  SiPostgresql,
   SiHtml5,
   SiCss3,
+  SiSolidity,
+  SiSupabase
 } from "react-icons/si";
 
 
@@ -81,6 +84,18 @@ const TechStack = () => {
               style={{ width: "60%", height: "5rem", color: "#FFC300" }}
             />
           </Card>
+          <Card
+            raised
+            className="item"
+            style={{
+              backgroundColor: "#10265ddc",
+              boxShadow: "0px 12px 20px rgba(0, 0, 0, 0.5)",
+            }}
+          >
+            <FaGolang
+              style={{ width: "60%", height: "5rem", color: "#FFC300" }}
+            />
+          </Card>
 
           <Card
             raised
@@ -91,6 +106,24 @@ const TechStack = () => {
             }}
           >
             <SiTypescript
+              style={{
+                width: "60%",
+                height: "5rem",
+                backgroundColor: "#FFFFFF",
+                color: "#007ACC",
+              }}
+            />
+          </Card>
+
+          <Card
+            raised
+            className="item"
+            style={{
+              backgroundColor: "#10265ddc",
+              boxShadow: "0px 12px 20px rgba(0, 0, 0, 0.5)",
+            }}
+          >
+            <SiSolidity
               style={{
                 width: "60%",
                 height: "5rem",
@@ -115,6 +148,25 @@ const TechStack = () => {
                 color: "#E34F26",
               }}
             />
+            
+          </Card>
+          <Card
+            raised
+            className="item"
+            style={{
+              backgroundColor: "#10265ddc",
+              boxShadow: "0px 12px 20px rgba(0, 0, 0, 0.5)",
+            }}
+          >
+            <SiSupabase
+              style={{
+                width: "60%",
+                height: "5rem",
+
+                color: "#E34F26",
+              }}
+            />
+            
           </Card>
           <Card
             raised

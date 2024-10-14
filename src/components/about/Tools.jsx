@@ -10,6 +10,7 @@ import {
   SiFigma,
   SiCanva,
   SiFirebase,
+    
 } from "react-icons/si";
 
 // import { VscTerminalCmd } from "react-icons/vsc";

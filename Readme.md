@@ -28,7 +28,7 @@ Built using React, Material-UI, and EmailJS.
 
    ```bash
    git clone https://github.com/Ronexlemon/PortFolio.git
-    cd portFolio
+   
     ```
 2. Install the dependencies:
 
