@@ -1,6 +1,6 @@
  # Portfolio Project
 
-An interactive portfolio website built using React, Material-UI, and EmailJS.
+Built using React, Material-UI, and EmailJS.
 
 ---
 ## Tech Stack
@@ -27,8 +27,7 @@ An interactive portfolio website built using React, Material-UI, and EmailJS.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MehraDevesh2022/portFolio.git
-
+   git clone https://github.com/Ronexlemon/PortFolio.git
     cd portFolio
     ```
 2. Install the dependencies:
@@ -65,6 +64,6 @@ An interactive portfolio website built using React, Material-UI, and EmailJS.
     Contributions are always welcome! Feel free to open a new PR for any changes to the repository. 
 
      ---
-    ** Open to exciting opportunities as a Front-End / Back-End / Full Stack Developer. Let's connect! **
+    ** Open to exciting opportunities / Back-End / Full Stack Developer. Let's connect! **
       
     
