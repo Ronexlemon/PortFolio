@@ -31,7 +31,7 @@ const HomeBottomPage = () => {
           </p>
           <br />
           <p>
-            I am also proficient in Solidity, JavaScript and love{" "}
+            I am also proficient in Solidity, Typescript,Golang and love{" "}
             <span style={{ color: "#32CD30" }}>solving problems</span> involving
             data structures and algorithms.
           </p>
@@ -43,11 +43,12 @@ const HomeBottomPage = () => {
             <span style={{ color: "#32CD30" }}>
                Devpost{" "}
             </span>
-            I contributed 9 successful pull requests to different projects
+            <span style={{color: "#32CD30"}}> 
+              Scout Game {" "}
+            </span>
+            I contributed 15 successful pull requests to different projects
             during recent{" "}
-            <span style={{ color: "#32CD30" }}>Hackerank  hackathon programe</span> and
-            earned rewards and Swags.
-          </p>
+            
           <br />
           <p>
             I love making side projects and learn about new{" "}
