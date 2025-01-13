@@ -36,7 +36,7 @@ const HomeBottomPage = () => {
             data structures and algorithms.
           </p>
           <br />
-          <p>
+         
             I'm also an active participant in various{" "}
             <span style={{ color: "#32CD30" }}>open source programs </span> such
             as{" "}

@@ -72,22 +72,7 @@ const AboutInfo = () => {
                 <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
                 Exploring tech-stuff
               </li>
-              <li>
-                <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
-                Watching Anime
-              </li>
-              <li>
-                <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
-                Action Games
-              </li>
-              <li>
-                <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
-                Yollow
-              </li>
-              <li>
-                <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
-                Travelling
-              </li>
+             
             </ul>
           </p>
         </div>

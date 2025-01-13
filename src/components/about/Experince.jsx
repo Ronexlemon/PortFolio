@@ -12,18 +12,18 @@ function Experience() {
         company: "HIFADHI.",
         jobtitle: "Backend / Smart Contract Development",
         startYear: "May 2024 ",
-        endYear: "Present",
+        endYear: "December 2024",
         links:
-          "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
+          "https://drive.google.com/file/d/19LPALpo1DC1hAuimc0BCL5pSIZRecy5p/view?usp=sharing",
       },
       {
         id: 2,
         company: "Exion.",
         jobtitle: "Backend developer / Blockchain (co-founder)",
         startYear: "Jan 2024 ",
-        endYear: "Present",
+        endYear: "Jan 2025",
         links:
-          "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
+          "https://drive.google.com/file/d/19LPALpo1DC1hAuimc0BCL5pSIZRecy5p/view?usp=sharing",
       },
       {
         id: 3,
@@ -32,16 +32,16 @@ function Experience() {
         startYear: "Dec 2023 ",
         endYear: " June 2024",
         links:
-          "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
+          "https://drive.google.com/file/d/19LPALpo1DC1hAuimc0BCL5pSIZRecy5p/view?usp=sharing",
       },
       {
         id: 4,
         company: "Celo Africa Dao",
         jobtitle: "Core Contributor / BlockChain Developer",
         startYear: "Oct 2023 ",
-        endYear: "Present",
+        endYear: "Dec 2025",
         links:
-          "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
+          "https://drive.google.com/file/d/19LPALpo1DC1hAuimc0BCL5pSIZRecy5p/view?usp=sharing",
       },
       {
         id: 5,
@@ -50,7 +50,7 @@ function Experience() {
         startYear: "Jan 2024 ",
         endYear: "Aug 2024",
         links:
-          "https://drive.google.com/file/d/1qaCLFp_R9WbJNN2L1Ud5IGK83frEBE0z/view?usp=sharing",
+          "https://drive.google.com/file/d/19LPALpo1DC1hAuimc0BCL5pSIZRecy5p/view?usp=sharing",
       },
       
     ];
