@@ -8,7 +8,7 @@
       {
         "id": "did:web:ronex-ondimu.vercel.app#owner",
         "type": "JsonWebKey2020",
-        "controller": "did:web:onex-ondimu.vercel.app",
+        "controller": "did:web:ronex-ondimu.vercel.app",
         "publicKeyJwk": {
           "kty": "EC",
           "crv": "secp256k1",
@@ -18,9 +18,9 @@
       }
     ],
     "authentication": [
-      "did:web:onex-ondimu.vercel.app#owner"
+      "did:web:ronex-ondimu.vercel.app#owner"
     ],
     "assertionMethod": [
-      "did:web:onex-ondimu.vercel.app#owner"
+      "did:web:ronex-ondimu.vercel.app#owner"
     ]
   }
